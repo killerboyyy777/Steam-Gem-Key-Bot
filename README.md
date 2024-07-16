@@ -1,5 +1,7 @@
 # Yes I take Custom Requests. Add "imout.\_" on discord. (Include the "._")
 
+(Keldy, I know you stole my code, tried to change some things within and use/sell it as your own. Expect action against you for attempting to steal this source and lie to clients and remove my credits from the code.)
+
 
 # Steam-Gem-Key-Bot
 Free Release of my Gem/Key Steam Bot
