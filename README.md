@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add "imout.\_" on discord. (Include the "._")
+# Yes I take Custom Requests. Add ".itchiest" on discord. (Include the ".")
 
 
 # Steam-Gem-Key-Bot
