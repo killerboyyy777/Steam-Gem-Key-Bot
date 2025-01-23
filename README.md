@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add ".itchiest" on discord. (Include the ".")
+# Yes I take Custom Requests. Add ".neurological." on discord. (Include the ".")
 
 
 # Steam-Gem-Key-Bot
