@@ -31,8 +31,5 @@ SWAPPING COMMANDS:
 
 
 ■ ■ ■ ■ ■  Created By mfw (https://steamcommunity.com/id/ndevs)
-■ ■ ■ ■ ■  For releasing this for free, if you'd like to donate, please use the information below!
-■ ■  CashApp : $mfwban
 
-Don't bother wasting my time. If you need something done, by ready. 
 Thank you for taking the time to read this!
