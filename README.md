@@ -1,4 +1,4 @@
-# Yes I take Custom Requests. Add ".neurologic." on discord. (Include the ".")
+# Yes I take Custom Requests. Add "n3u.dev" on discord.
 
 
 # Steam-Gem-Key-Bot
