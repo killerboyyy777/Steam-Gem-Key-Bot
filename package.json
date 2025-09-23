@@ -3,7 +3,7 @@
   "version": "2.6.0",
   "description": "Trade BGs Emotes Keys Gems",
   "main": "index.js",
-  "author": "https://steamcommunity.com/id/mfwBan",
+  "author": "https://steamcommunity.com/id/ndevs",
   "license": "ISC",
   "dependencies": {
     "forever": "^0.15.3",
