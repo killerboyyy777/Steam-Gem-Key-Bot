@@ -1622,7 +1622,7 @@ Database.Profit.Sell.CRAP[0] += gem.amount - (MyItems.length * CONFIG.Rates.BUY.
         // Not enough gems,decline
         client.chatMessage(
           PartnerID,
-          'Rates are incorrect.You offered ${gem.amount} Gems but this trade requires ${MyItems.length * CONFIG.Rates.SELL.BG_And_Emotes} Gems (${MyItems.length} item(s) × ${CONFIG.Rates.SELL.BG_And_Emotes} Gems each). Please retry using the correct rates.',
+                    `Rates are incorrect. You offered ${gem.amount} Gems but this trade requires ${MyItems.length * CONFIG.Rates.SELL.BG_And_Emotes} Gems (${MyItems.length} item(s) × ${CONFIG.Rates.SELL.BG_And_Emotes} Gems each). Please retry using the correct rates.`,
         );
         offer.decline((err) => {
           if (err) {
