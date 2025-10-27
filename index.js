@@ -1595,9 +1595,11 @@ function Sell_Bgs_And_Emotes(offer) {
             .readFileSync('./SETTINGS/TotalSold.json')
             .toString('utf8'),
         );
-Database.Profit.Sell.CRAP[0] += gem.amount - (MyItems.length * CONFIG.Rates.BUY.BG_And_Emotes);
-        fs.writeFileSync('./SETTINGS/TotalSold.json',JSON.stringify(Database, undefined, '\t'),
-	);
+        Database.Profit.Sell.CRAP[0] += gem.amount - (MyItems.length * CONFIG.Rates.BUY.BG_And_Emotes);
+        fs.writeFileSync(
+          './SETTINGS/TotalSold.json',
+          JSON.stringify(Database, undefined, '\t')
+        );
         offer.accept((err) => {
           client.chatMessage(
             PartnerID,
